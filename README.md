@@ -24,3 +24,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 # Reactjs_Youtube_simulation
+# React_training_components
